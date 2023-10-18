@@ -1,0 +1,7 @@
+Time complexity: O(n) (linear growth rate)
+
+Will have a linear growth rate based on the length of the string since the number of times the for loop iterates will depend on the string length, and it will do constant work for each iteration (checking the if statement and increasing a counter).
+
+Space complexity: O(c) (constant)
+
+Will have constant space complexity since it will use the same amount of variables regardless of the length of the string.
